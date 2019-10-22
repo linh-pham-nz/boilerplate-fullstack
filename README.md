@@ -1,5 +1,7 @@
 # Fullstack boilerplate
 
+knex branch has been merged to master already (knex not yet deleted as unsure if any issues as yet)
+
 To get started:
 
 ```
