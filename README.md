@@ -7,6 +7,10 @@ To get started:
 ```
 git clone https://github.com/dev-academy-challenges/boilerplate-fullstack [your-project-name]
 cd [your-project-name]
+
+create new repo on GitHub using [your-project-name]
+git remote set-url https://github.com/organisation-name/your-project-name # to set remote url
+
 npm install # to install dependencies
 npm run dev # to start the dev server
 ```
